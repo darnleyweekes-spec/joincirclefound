@@ -8,7 +8,7 @@ Alternative: waitlisted, declined, rematch_requested, closed.
 Subject: You’re accepted to the CircleFound founding cohort
 
 You’re accepted. Complete your $9 founding placement using the secure page below and use the same name and email from your application:
-https://circlefound-social.vercel.app/accepted
+https://joincirclefound.vercel.app/accepted
 
 ## Decline/waitlist email
 Subject: CircleFound application update
@@ -28,4 +28,4 @@ Introduce first names only, state the shared fit reasons, repeat no-dating/no-se
 ## Payments
 Stripe product: CircleFound Founding Circle
 Live payment link: https://book.stripe.com/eVqeV7e6j8oU2447XP48005
-Accepted page: https://circlefound-social.vercel.app/accepted
+Accepted page: https://joincirclefound.vercel.app/accepted
