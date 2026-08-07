@@ -4,15 +4,15 @@
   "rewrites": [
   {
     "source": "/assets/hero-community.webp",
-    "destination": "/circlefound-final-launch%20(1)/assets/hero-community.webp"
+    "destination": "/circlefound-final-launch (1)/assets/hero-community.webp"
   },
   {
     "source": "/assets/park-community.webp",
-    "destination": "/circlefound-final-launch%20(1)/assets/park-community.webp"
+    "destination": "/circlefound-final-launch (1)/assets/park-community.webp"
   },
   {
     "source": "/assets/game-night-community.webp",
-    "destination": "/circlefound-final-launch%20(1)/assets/game-night-community.webp"
+    "destination": "/circlefound-final-launch (1)/assets/game-night-community.webp"
   }
 ],
   "headers": [
