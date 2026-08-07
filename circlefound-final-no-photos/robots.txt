@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /accepted
+Disallow: /payment-success
+Sitemap: https://circlefound-social.vercel.app/sitemap.xml
